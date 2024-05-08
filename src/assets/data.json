@@ -1,0 +1,111 @@
+{
+  "questions": [
+    {
+      "question": "I could handle a major unexpected expense",
+      "options": [
+        {"value": "Completely", "score": 1},
+        {"value": "Very well", "score": 2},
+        {"value": "Somewhat", "score": 3},
+        {"value": "Very little", "score": 4},
+        {"value": "Not at all", "score": 5}
+      ]
+    },
+    {
+      "question": "I am securing my financial future",
+      "options": [
+        {"value": "Completely", "score": 1},
+        {"value": "Very well", "score": 4},
+        {"value": "Somewhat", "score": 3},
+        {"value": "Very little", "score": 2},
+        {"value": "Not at all", "score": 5}
+      ]
+    },
+    {
+      "question": "Because of my money situation, I feel like I will never have the things I want in life",
+      "options": [
+        {"value": "Completely", "score": 2},
+        {"value": "Very well", "score": 4},
+        {"value": "Somewhat", "score": 3},
+        {"value": "Very little", "score": 1},
+        {"value": "Not at all", "score": 5}
+      ]
+    },
+    {
+      "question": "I can enjoy life because of the way I’m managing my money",
+      "options": [
+        {"value": "Completely", "score": 5},
+        {"value": "Very well", "score": 2},
+        {"value": "Somewhat", "score": 3},
+        {"value": "Very little", "score": 1},
+        {"value": "Not at all", "score": 4}
+      ]
+    },
+    {
+      "question": "I’m just getting by financially",
+      "options": [
+        {"value": "Completely", "score": 3},
+        {"value": "Very well", "score": 4},
+        {"value": "Somewhat", "score": 2},
+        {"value": "Very little", "score": 1},
+        {"value": "Not at all", "score": 5}
+      ]
+    },
+    {
+      "question": "I’m concerned that the money I have or will save won’t last",
+      "options": [
+        {"value": "Completely", "score": 1},
+        {"value": "Very well", "score": 3},
+        {"value": "Somewhat", "score": 2},
+        {"value": "Very little", "score": 5},
+        {"value": "Not at all", "score": 4}
+      ]
+    },
+    {
+      "question": "Giving a gift for a wedding, birthday or other occasion would put a strain on my finances for the month",
+      "options": [
+        {"value": "Always", "score": 4},
+        {"value": "Often", "score": 1},
+        {"value": "Sometimes", "score": 3},
+        {"value": "Rarely", "score": 5},
+        {"value": "Never", "score": 2}
+      ]
+    },
+    {
+      "question": "I have money left over at the end of the month",
+      "options": [
+        {"value": "Always", "score": 3},
+        {"value": "Often", "score": 5},
+        {"value": "Sometimes", "score": 1},
+        {"value": "Rarely", "score": 2},
+        {"value": "Never", "score": 4}
+      ]
+    },
+    {
+      "question": "I am behind with my finances",
+      "options": [
+        {"value": "Always", "score": 2},
+        {"value": "Often", "score": 4},
+        {"value": "Sometimes", "score": 1},
+        {"value": "Rarely", "score": 5},
+        {"value": "Never", "score": 3}
+      ]
+    },
+    {
+      "question": "My finances control my life",
+      "options": [
+        {"value": "Always", "score": 1},
+        {"value": "Often", "score": 3},
+        {"value": "Sometimes", "score": 5},
+        {"value": "Rarely", "score": 2},
+        {"value": "Never", "score": 4}
+      ]
+    },
+    {
+      "question": "How old are you?",
+      "options": [
+        {"value": "18 - 61", "score": 5},
+        {"value": "62+", "score": 1}
+      ]
+    }
+  ]
+}
